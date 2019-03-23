@@ -1,0 +1,120 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  background: #fff url(https://bobmatyas.github.io/fem-fylo-landing-page/images/bg-intro.svg) no-repeat;
+  background-size: 50% 200%;
+  font-family: 'Open Sans', sans-serif;
+}
+
+label {
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.banner-text2 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 3.4rem;
+  line-height: 3.8rem;
+  margin-top: 125px;
+  margin-bottom: 34px;
+}
+
+.our-goal2 {
+  font-size: 1.3rem;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.right {
+  width: 50%;
+  margin: 0;
+}
+
+.right {
+  padding: 5%;
+}
+
+.left {
+  padding: 100px 0;
+  text-align: center;
+}
+
+.left {
+  width: 50%;
+  margin-top: 70px;
+}
+
+.all {
+  display: flex;
+}
+
+.nav {
+  width: 50%;
+  padding: 2% 5% 0 5%;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  right: 0;
+  justify-content: space-between;
+}
+
+.icon {
+  padding: 5px;
+}
+
+.social {
+  width: 124px;
+  height: 51px;
+}
+
+.social ul {
+  list-style-type: none;
+}
+
+.social ul {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.signup-container {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: baseline;
+}
+
+.email-input {
+  width: 75%;
+}
+
+.box {
+  width: 404px;
+  height: 46px;
+  border: 1px solid #ccc;
+  box-shadow: 0 0 3px #ccc;
+}
+
+.submit {
+  padding: 10px 30px;
+  background-color: hsl(163, 95%, 43%);
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  font-size: 1.6rem;
+  border: 1px solid hsl(163, 95%, 43%);
+  box-shadow: 0 0 3px #ccc;
+}
+
+.privacy{
+  text-align: right;
+  padding-top: 50px;
+}
